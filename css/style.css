@@ -1,8 +1,8 @@
-/* .menu{
-list-style: none;
-} */
 .site-header{
 background-color: #fff;
+}
+.sitenav-list{
+list-style: none;
 }
 .site-link{
   font-size: 13px;
@@ -31,4 +31,17 @@ color: #fff
 .hero-img{
   width: 510px;
   height: 510px;
+}
+.features-h2{
+font-size: 40px;
+line-height: 48px;
+letter-spacing: 0.5px;
+}
+.site-footer ul {
+  list-style: none;
+
+}
+.site-links a{
+  text-decoration: none;
+  color: #252420;
 }
